@@ -1,1 +1,1 @@
-# pcf-powershell-module
+# PCF Module for Powershell Core
