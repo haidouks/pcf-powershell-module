@@ -1,1 +1,5 @@
-# PCF Module for Powershell Core
+---
+title: "PCF Module for Powershell Core"
+---
+
+# {{ .Params.title }}
